@@ -37,3 +37,4 @@
     <img height="50" src="https://inlab.fib.upc.edu/sites/default/files/styles/large/public/field/image/captura_3.png"/>
 </a>
   
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
