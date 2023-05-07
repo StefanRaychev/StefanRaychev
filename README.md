@@ -38,3 +38,5 @@
 </a>
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme={theme_name}
