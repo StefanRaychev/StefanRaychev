@@ -37,5 +37,14 @@
 <a href="https://www.kaggle.com/stefanraychev">
     <img height="50" src="https://inlab.fib.upc.edu/sites/default/files/styles/large/public/field/image/captura_3.png"/>
 </a>
+
+
+<a href="https://www.linkedin.com/in/stefan-raychev-88b146266/">
+    <img height="50" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw"/>
+</a>
   
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StefanRaychev&theme=solarized) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StefanRaychev&theme=solarized) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=StefanRaychev&theme=solarized) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=StefanRaychev&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=StefanRaychev&theme=solarized) 
