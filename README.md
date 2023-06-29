@@ -21,7 +21,7 @@
 <a><img height="50" src="https://shorturl.at/sz456"/></a>
 
 ### Web Technologies
-<a><img height="40" src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg"/></a>
+<a><img height="40" src="https://sass-lang.com/assets/img/logos/logo.svg"/></a>
 <a><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMUuFh4ah50p3dcMhonzqbHdV164aRrqiPPbSoMVdOcZbMqxPSoTt0BFEeWi7ZOSfn32s&usqp=CAU"/></a>
 
  
