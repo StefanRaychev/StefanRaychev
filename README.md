@@ -18,7 +18,7 @@
 <a><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU1r9xWyPHx4NEzOpoB3IHUiL_sCXm7Op1XJaHPb18vAbS1J-p-EM6WWWjS-Li-FxPagA&usqp=CAU"/></a>
 <a><img height="50" src="https://www.moredatascientists.com/wp-content/uploads/2015/06/sklearn-2.png"/></a>
 <a><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/1200px-TensorFlowLogo.svg.png"/></a>
-<a><img height="50" src="https://shorturl.at/sz456"/></a>
+<a><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQvHKRf3IFNgbFcGiHbyAT-9EcYKlJZaD6xSwbEEwPDaaYB75ryT-RWMzvirBQ2v9ahQ0&usqp=CAU"/></a>
 
 ### Web Technologies
 <a><img height="40" src="https://sass-lang.com/assets/img/logos/logo.svg"/></a>
