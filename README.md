@@ -48,3 +48,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=StefanRaychev&theme=solarized) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=StefanRaychev&theme=solarized)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=StefanRaychev&theme=solarized) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StefanRaychev)](https://github.com/anuraghazra/github-readme-stats)
