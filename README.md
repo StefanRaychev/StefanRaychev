@@ -10,13 +10,13 @@
 
 ### Python's Technologies
 <a><img height="40" src="https://matplotlib.org/_static/images/logo2.svg"/></a>
-<a><img height="50" src="https://bids.berkeley.edu/sites/default/files/styles/250x140/public/projects/scipy_logo_450x254.png?itok=iYqgsiQs"/></a>
-<a><img height="50" src="https://raw.githubusercontent.com/earthinversion/earthinversion-images/main/images/pandas-python.png"/></a>
+<a><img height="50" src="https://scipy.org/images/logo.svg"/></a>
+<a><img height="50" src="https://www.datascienceverse.com/wp-content/uploads/2023/04/pandas-python.png"/></a>
 <a><img height="50" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg"/></a>
 <a><img height="50" src="https://repository-images.githubusercontent.com/33702544/b4400c80-718b-11e9-9f3a-306c07a5f3de"/></a>
 <a><img height="50" src="https://www.statsmodels.org/devel/_images/statsmodels-logo-v2.svg"/></a>
 <a><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU1r9xWyPHx4NEzOpoB3IHUiL_sCXm7Op1XJaHPb18vAbS1J-p-EM6WWWjS-Li-FxPagA&usqp=CAU"/></a>
-<a><img height="50" src="https://www.moredatascientists.com/wp-content/uploads/2015/06/sklearn-2.png"/></a>
+<a><img height="50" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*j9TC7PTOq1YaQ5se.png"/></a>
 <a><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/1200px-TensorFlowLogo.svg.png"/></a>
 <a><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQvHKRf3IFNgbFcGiHbyAT-9EcYKlJZaD6xSwbEEwPDaaYB75ryT-RWMzvirBQ2v9ahQ0&usqp=CAU"/></a>
 
