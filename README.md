@@ -35,7 +35,7 @@
 </a>
 
 <a href="https://www.kaggle.com/stefanraychev">
-    <img height="50" src="https://inlab.fib.upc.edu/sites/default/files/styles/large/public/field/image/captura_3.png"/>
+    <img height="50" src=https://miro.medium.com/v2/resize:fit:837/1*tI-TWV--K05xbXUgA4Qm1w.png/>
 </a>
 
 
