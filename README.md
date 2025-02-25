@@ -5,15 +5,14 @@
 <!--[![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=StefanRaychev)](https://github.com/StefanRaychev/github-readme-stats)-->
 
 ### Languages
-<a><img height="60" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png"/></a>
+<a><img height="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1z0LC70CF3lPE1Xe-Uka4Y5sSlLzrAVHCQg&s"/></a>
 <a><img height="60" src="https://miro.medium.com/max/1200/1*l4xICbIIYlz1OTymWCoUTw.jpeg"/></a>
 
 ### Python's Technologies
 <a><img height="40" src="https://matplotlib.org/_static/images/logo2.svg"/></a>
 <a><img height="50" src="https://scipy.org/images/logo.svg"/></a>
-<a><img height="50" src="https://www.datascienceverse.com/wp-content/uploads/2023/04/pandas-python.png"/></a>
+<a><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNyAPXEFlKyaz6hnfAOyWRf9xIbeUnKOoYLN99Ww6uDK6vb4dv0HeVmgl-WGva9e4jp54&usqp=CAU"/></a>
 <a><img height="50" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg"/></a>
-<a><img height="50" src="https://repository-images.githubusercontent.com/33702544/b4400c80-718b-11e9-9f3a-306c07a5f3de"/></a>
 <a><img height="50" src="https://www.statsmodels.org/devel/_images/statsmodels-logo-v2.svg"/></a>
 <a><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU1r9xWyPHx4NEzOpoB3IHUiL_sCXm7Op1XJaHPb18vAbS1J-p-EM6WWWjS-Li-FxPagA&usqp=CAU"/></a>
 <a><img height="50" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*j9TC7PTOq1YaQ5se.png"/></a>
